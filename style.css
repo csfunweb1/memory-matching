@@ -1,0 +1,26 @@
+body{
+  background-color: #FFEB3B;
+  font-family: 'Mali', cursive;
+  text-align: center;
+}
+table{
+  font-size: 5em;
+}
+td{
+  padding: 0.2em 0.5em;
+  border: 0.03em outset black;
+  background-color: #f453adc7;
+  height: 1.5em;
+  width: 1em;
+  cursor: pointer;
+    
+}
+.disabled{
+  background-color: #ffe5b4;
+  opacity: 0.7;
+}
+.clicked{
+/*  background-color: #f9bbe6;*/
+background-color: #ffe5b4; 
+}
+
